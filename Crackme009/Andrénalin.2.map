@@ -1,0 +1,52 @@
+
+ Start         Length     Name                   Class
+ 0002:00000000 000001654H .text                  CODE
+ 0003:00000000 0000009F0H .data                  DATA
+ 0004:00000000 000000494H .idata                 DATA
+
+
+  Address         Publics by Value
+
+ 0001:00000146       ThunRTMain
+ 0001:0000014C       start
+ 0001:00000188       aProject1
+ 0001:000003FC       aAcProgrammeDev
+ 0001:0000047A       aE
+ 0001:0000047C       a3_vbp
+ 0001:00000ACC       aForm1
+ 0001:00000AD4       aProject1_0
+ 0001:00000B30       aForm
+ 0001:00000B48       aCProgrammeDevs
+ 0001:00000B6C       aVb
+ 0001:00000BA8       aLabel1
+ 0001:00000BB0       aLabel2
+ 0001:00000BC8       aText1
+ 0001:00000BD0       aText2
+ 0001:00000BE8       aCommand1
+ 0001:00000BF4       aCommand1_click
+ 0001:00000C04       aText2_change
+ 0001:00000C3C       aRichtig____Wei
+ 0001:00000C8C       aChsten
+ 0001:00000CA8       aRichtig
+ 0001:00000CC0       aLeiderFalschNo
+ 0001:00000D9C       aLeiderFalsch
+ 0001:00000DE4       a__vbastrcmp
+ 0001:00000DF0       a__vbavardup
+ 0001:00000DFC       a__vbafreevar
+ 0001:00000E0C       a__vbavartsteq
+ 0001:00000E1C       a__vbamidstmtva
+ 0001:00000E2C       a__vbavarmul
+ 0001:00000E38       a__vbavarfornex
+ 0001:00000E48       a__vbafreevarli
+ 0001:00000E5C       a__vbafreestr
+ 0001:00000E6C       a__vbai4var
+ 0001:00000E78       a__vbastrvarval
+ 0001:00000E88       a__vbavaradd
+ 0001:00000E94       a__vbalenvar
+ 0001:00000EA0       a__vbavarforini
+ 0001:00000EB0       a__vbafreeobj
+ 0001:00000EC0       a__vbahresultch
+ 0001:00000ED8       a__vbaobjset
+ 0001:00000EE4       a__vbavarmove
+
+Program entry point at 0001:0000014C

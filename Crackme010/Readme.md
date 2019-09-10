@@ -1,6 +1,3 @@
-
-Crackme009的逆向分析
-
 .exe是程序本体
 
 Cracked.exe是破解完成的程序

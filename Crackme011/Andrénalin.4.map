@@ -1,0 +1,74 @@
+
+ Start         Length     Name                   Class
+ 0002:00000000 00000C8B0H .text                  CODE
+ 0003:00000000 000000A30H .data                  DATA
+ 0004:00000000 0000008D0H .rsrc                  DATA
+
+
+  Address         Publics by Value
+
+ 0001:000001FC       __vbaFPException
+ 0001:00000334       ThunRTMain
+ 0001:0000033C       start
+ 0001:0000088C       aProjekt1
+ 0001:00000895       aProjekt1_0
+ 0001:000008A0       aRojekt1
+ 0001:00000BAC       aForm1
+ 0001:00000BB4       aProjekt1_1
+ 0001:00000D14       aCommand10
+ 0001:00000D20       aCommand11
+ 0001:00000D2C       aCommand12
+ 0001:00000D38       aCommand1
+ 0001:00000D44       aCommand2
+ 0001:00000D50       aCommand3
+ 0001:00000D5C       aCommand4
+ 0001:00000D68       aCommand5
+ 0001:00000D74       aCommand6
+ 0001:00000D80       aCommand7
+ 0001:00000D8C       aCommand8
+ 0001:00000D98       aCommand9
+ 0001:00000DA4       aLabel1
+ 0001:00000E50       a0817e747d7aff7
+ 0001:00000EBC       aRegistriert
+ 0001:00000EE8       a0817e747d7a7d7
+ 0001:00000F54       aQ817e747d7aff7
+ 0001:00000FC0       a0817e747d7afp7
+ 0001:0000102C       a0817e747g7aff7
+ 0001:00001098       a0817e747d
+ 0001:000010AC       aAff7c7f82836d7
+ 0001:00001104       a0817e7wod7aff7
+ 0001:00001170       aHttpBeam_toCug
+ 0001:000011DC       a0817e747d7af_0
+ 0001:00001248       a0817e7477aff7c
+ 0001:000012B4       a0817e7477aff_0
+ 0001:00001320       a0817e747d7afff
+ 0001:00001390       a0817e747d7a7_0
+ 0001:000013FC       a0817e747d7a7_1
+ 0001:00001468       a0817e747d7a7_2
+ 0001:000014D4       a0817e747d7a7_3
+ 0001:00001540       a0817e747d7a7_4
+ 0001:000015A8       aVba6_dll
+ 0001:000015B4       a__vbafreevar
+ 0001:000015C4       a__vbavartsteq
+ 0001:000015D4       a__vbavarfornex
+ 0001:000015E4       a__vbafreevarli
+ 0001:000015F8       a__vbai4var
+ 0001:00001604       a__vbastrvarval
+ 0001:00001614       a__vbalenvar
+ 0001:00001620       a__vbavarforini
+ 0001:00001630       a__vbavarmove
+ 0001:00001640       a__vbafreeobj
+ 0001:00001650       a__vbafreestrli
+ 0001:00001664       a__vbafreestr
+ 0001:00001674       a__vbastrcmp
+ 0001:00001680       a__vbaerrorover
+ 0001:00001694       a__vbalenbstr
+ 0001:000016A4       a__vbafreeobjli
+ 0001:000016B8       a__vbahresultch
+ 0001:000016D0       a__vbastrcat
+ 0001:000016DC       a__vbastrmove
+ 0001:000016EC       a__vbaobjset
+ 0001:0000C494       __IMPORT_DESCRIPTOR_MSVBVM60
+ 0001:0000C59C       aMsvbvm60_dll
+
+Program entry point at 0001:0000033C

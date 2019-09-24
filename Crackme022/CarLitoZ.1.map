@@ -1,0 +1,21 @@
+ 
+
+ Timestamp is 366B1AE4
+
+ Preferred load address is 00400000
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00001AB0       Form_Load_402AB0      00402AB0     .OBJ
+ 0001:00002040       restart_Click_403040      00403040     .OBJ
+ 0001:000019C0       about_Click_4029C0      004029C0     .OBJ
+ 0001:00001CB0       quit_Click_402CB0      00402CB0     .OBJ
+ 0001:00001D20       reg_Click_402D20      00402D20     .OBJ
+ 0001:00002230       rgr_403230      00403230     .OBJ
+ 0001:00002B80       ok_Click_403B80      00403B80     .OBJ
+
+ entry point at        0001:000001AC
+
+ Static symbols
+
+
